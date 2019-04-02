@@ -1,7 +1,6 @@
-# MyCalendar
--
+MyCalendar
 Cross-platform app built on react-native.
-Its a reminder app built for a group of people in which reminders are added by one and all of them are reminded about it
+Its a reminder app built for a group of people in which reminders are added by one and all of them are reminded about it.
 
 ### React-native version: 0.55
 ### Database used : Firebase
